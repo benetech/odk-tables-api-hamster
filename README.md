@@ -8,5 +8,3 @@ You could use it in client projects that you would like to talk to [ODK Hamster]
 
 This JAR has been updated with entity definitions for user, office, and form upload results.
 
-[![Release](https://jitpack.io/v/Benetech/odk-tables-api-hamster.svg)]
-(https://jitpack.io/#Benetech/odk-tables-api-hamster)
