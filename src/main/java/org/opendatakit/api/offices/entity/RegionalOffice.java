@@ -102,6 +102,11 @@ public class RegionalOffice {
       return false;
     return true;
   }
+
+  @Override
+  public String toString() {
+    return "RegionalOffice [name=" + name + ", officeId=" + officeId + "]";
+  }
   
   
 }
