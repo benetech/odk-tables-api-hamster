@@ -4,4 +4,7 @@ This is the odk-tables-api jar, separated out from the [original ODK Aggregate](
 
 You could use it in client projects that you would like to talk to [ODK Hamster](https://github.com/benetech/odk-hamster).
 
-![Release](https://jitpack.io/v/Benetech/odk-tables-api-hamster.svg)
+## 1.2-SNAPSHOT
+
+This JAR has been updated with entity definitions for user, office, and form upload results.
+
