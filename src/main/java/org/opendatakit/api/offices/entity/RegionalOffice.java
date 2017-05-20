@@ -62,7 +62,7 @@ public class RegionalOffice {
     return uri;
   }
 
-  public void getUri(String URI) {
+  public void setUri(String URI) {
     this.uri = URI;
   }
 
